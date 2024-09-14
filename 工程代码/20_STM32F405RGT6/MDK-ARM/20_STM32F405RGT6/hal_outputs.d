@@ -1,0 +1,17 @@
+20_stm32f405rgt6\hal_outputs.o: ..\User\mpu6050\mllite\hal_outputs.c
+20_stm32f405rgt6\hal_outputs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+20_stm32f405rgt6\hal_outputs.o: ..\User\mpu6050\mllite\hal_outputs.h
+20_stm32f405rgt6\hal_outputs.o: ../User/mpu6050/driver/include/mltypes.h
+20_stm32f405rgt6\hal_outputs.o: ../User/mpu6050/driver/include/stdint_invensense.h
+20_stm32f405rgt6\hal_outputs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+20_stm32f405rgt6\hal_outputs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+20_stm32f405rgt6\hal_outputs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+20_stm32f405rgt6\hal_outputs.o: ../User/mpu6050/driver/include/log.h
+20_stm32f405rgt6\hal_outputs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+20_stm32f405rgt6\hal_outputs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+20_stm32f405rgt6\hal_outputs.o: ..\User\mpu6050\mllite\ml_math_func.h
+20_stm32f405rgt6\hal_outputs.o: ../User/mpu6050/driver/include/mlmath.h
+20_stm32f405rgt6\hal_outputs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+20_stm32f405rgt6\hal_outputs.o: ..\User\mpu6050\mllite\start_manager.h
+20_stm32f405rgt6\hal_outputs.o: ..\User\mpu6050\mllite\data_builder.h
+20_stm32f405rgt6\hal_outputs.o: ..\User\mpu6050\mllite\results_holder.h

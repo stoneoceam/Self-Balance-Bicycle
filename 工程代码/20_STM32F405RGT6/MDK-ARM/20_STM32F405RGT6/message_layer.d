@@ -1,0 +1,11 @@
+20_stm32f405rgt6\message_layer.o: ..\User\mpu6050\mllite\message_layer.c
+20_stm32f405rgt6\message_layer.o: ..\User\mpu6050\mllite\message_layer.h
+20_stm32f405rgt6\message_layer.o: ../User/mpu6050/driver/include/mltypes.h
+20_stm32f405rgt6\message_layer.o: ../User/mpu6050/driver/include/stdint_invensense.h
+20_stm32f405rgt6\message_layer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+20_stm32f405rgt6\message_layer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+20_stm32f405rgt6\message_layer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+20_stm32f405rgt6\message_layer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+20_stm32f405rgt6\message_layer.o: ../User/mpu6050/driver/include/log.h
+20_stm32f405rgt6\message_layer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+20_stm32f405rgt6\message_layer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
